@@ -1,3 +1,3 @@
-Repository for a post Jabutech with title "Environtment Variable Pada Golang"
+Repository for a post Jabutech with title "Environment Variable Pada Golang"
 
-Link post: [Environtment Variable Pada Golang](https://www.jabutech.com/posts/environtment-variable-pada-golang/)
+Link post: [Environment Variable Pada Golang](https://www.jabutech.com/posts/environment-variable-pada-golang/)
